@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/harshitdwivedi/PAYPAL/app/layout.tsx"],"sourcesContent":["import \"./globals.css\";\nimport React from \"react\";\n\nexport const metadata = {\n  title: \"PayPal Split & Bill Workbench\",\n  description: \"Multimodal Receipt & Freelance DM Parser -> Live PayPal Invoicing v2\",\n};\n\nexport default function RootLayout({ children }: { children: React.ReactNode }) {\n  return (\n    <html lang=\"en\">\n      <body>{children}</body>\n    </html>\n  );\n}\n"],"names":["metadata","title","description","RootLayout","children","lang"],"mappings":";;;;;;;;;AAGO,MAAMA,WAAW;IACtBC,OAAO;IACPC,aAAa;AACf;AAEe,SAASC,WAAW,EAAEC,QAAQ,EAAiC;IAC5E,qBACE,8OAAC;QAAKC,MAAK;kBACT,cAAA,8OAAC;sBAAMD;;;;;;;;;;;AAGb"}},
+    {"offset": {"line": 41, "column": 0}, "map": {"version":3,"sources":["file:///Users/harshitdwivedi/PAYPAL/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
+}

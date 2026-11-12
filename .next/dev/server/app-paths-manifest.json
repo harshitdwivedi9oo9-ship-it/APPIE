@@ -1,5 +1,0 @@
-{
-  "/api/extract/route": "app/api/extract/route.js",
-  "/api/paypal/route": "app/api/paypal/route.js",
-  "/page": "app/page.js"
-}
